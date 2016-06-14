@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">KalaSää</string>
+    <string name="action_settings">Asetukset</string>
+    <string name="title_activity_maps">Kartta</string>
+    <string name="title_activity_forecast">Kahden viikon ennuste</string>
+    <string name="pref_location_default">Pori, Finland</string>
+    <string name="pref_location_key">Pori, Finland</string>
+    <string name="pref_location_label">Oletussijainti</string>
+    <string name="dialog_maps_save">Anna tallennettavalle sijainnille näyttönimi:</string>
+    <string name="dialog_maps_button_yes">Tallenna</string>
+    <string name="dialog_maps_button_no">Peruuta</string>
+    <string name="dialog_main_remove">Poista valittu paikka?</string>
+    <string name="dialog_main_button_yes">Poista</string>
+    <string name="dialog_main_button_no">Peruuta</string>
+    <string name="pref_erase_label">Tyhjennä lista</string>
+    <string name="pref_erase_key">erase</string>
+    <string name="pref_erase_summary">Valitse tyhjentääksesi listan</string>
+    <string name="dialog_pref_erase">Tyhjennä lista paikoista?</string>
+    <string name="dialog_pref_erase_button_yes">Tyhjennä</string>
+    <string name="dialog_pref_erase_button_no">Peruuta</string>
+
+
+</resources>
